@@ -1,12 +1,7 @@
-import pandas as pd
-import numpy as np
-import matplotlib.pyplot as plt
-import seaborn as sns
-import streamlit as st
-import plotly.express as px
-from plotly.subplots import make_subplots
-import plotly.graph_objects as go
-
-from openpyxl import Workbook
-from urllib.request import urlopen
-import json
+openpyxl==3.0.6
+matplotlib==3.3.3
+numpy==1.19.4
+pandas==1.1.5
+streamlit==0.75.0
+plotly==4.14.1
+seaborn==0.11.1
